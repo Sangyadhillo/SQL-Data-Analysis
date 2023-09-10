@@ -1,2 +1,2 @@
 # SQL-Data-Analysis
-This is repository for SQL data analysis
+This is repository for SQL data analysis project
