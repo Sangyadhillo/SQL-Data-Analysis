@@ -1,5 +1,5 @@
 # SQL-Data-Analysis
-This is repository for SQL data analysis project
+This is Basic real time Data analysis project in SQL for beginners.
 
 
 ## Understanding requirements:
